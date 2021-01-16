@@ -1,0 +1,3 @@
+[submodule "react-e-commerce-front"]
+	path = react-e-commerce-front
+	url = https://github.com/VishGrov21/react-e-commerce-front
